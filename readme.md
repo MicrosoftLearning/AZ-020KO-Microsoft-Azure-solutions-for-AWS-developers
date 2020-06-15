@@ -1,6 +1,6 @@
 ﻿# AZ-020: AWS 개발자용 Microsoft Azure 솔루션
 
-> **[AZ-020 랩 지침](https://microsoftlearning.github.io/AZ-020-Microsoft-Azure-solutions-for-AWS-developers/)**
+> **[AZ-020 랩 지침](https://microsoftlearning.github.io/AZ-020KO-Microsoft-Azure-solutions-for-AWS-developers/)**
 
 ## 이 과정에서 AZ-204 랩 사용과 관련한 참고사항
 
@@ -8,7 +8,7 @@
 
 AZ-020 랩은 AZ-204 랩의 하위 집합으로서 [AZ-204 랩 리포지토리](https://github.com/MicrosoftLearning/AZ-204KO-DevelopingSolutionsforMicrosoftAzure)에서 가져온 것입니다.
 
-AZ-204 랩 번호에 대한 AZ-020 과정 모듈 번호의 **[매핑](mapping.md)**은 `../Instructions/labs` 폴더의 readme 파일에서 찾아볼 수 있습니다.
+AZ-204 랩 번호에 대한 AZ-020 과정 모듈 번호의 **[매핑](mapping.md)** 은 `../Instructions/labs` 폴더의 readme 파일에서 찾아볼 수 있습니다.
 
 ## 무엇을 하고 있나요?
 
