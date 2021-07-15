@@ -8,7 +8,7 @@
 
 AZ-020 랩은 AZ-204 랩의 하위 집합이며 [AZ-204 랩 리포지토리](https://github.com/MicrosoftLearning/AZ-204-DevelopingSolutionsforMicrosoftAzure)에서 직접 가져옵니다.
 
-AZ-204 랩 번호에 대한 AZ-020 과정 모듈 번호의 **[매핑](mapping.md)**은 `../Instructions/labs` 폴더 추가 정보 파일에서 확인할 수 있습니다.
+AZ-204 랩 번호에 대한 AZ-020 과정 모듈 번호의 **[매핑](mapping.md)** 은 `../Instructions/labs` 폴더 추가 정보 파일에서 확인할 수 있습니다.
 
 ## Microsoft의 역할
 
